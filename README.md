@@ -1,2 +1,2 @@
-# swarm-monitoring-stack
-Prometheus + Grafana monitoring stack for Docker Swarm
+# A Prometheus & Grafana docker-compose stack
+Prometheus & Grafana docker-compose stack
